@@ -16,6 +16,8 @@
 		EC7148351F278D22002569C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7148341F278D22002569C7 /* Assets.xcassets */; };
 		EC7148381F278D22002569C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC7148361F278D22002569C7 /* LaunchScreen.storyboard */; };
 		EC7148431F28F93B002569C7 /* Key.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7148421F28F93B002569C7 /* Key.swift */; };
+		EC9A4BFB1F3A6E1B00D67FAD /* Circle_Aminor.png in Resources */ = {isa = PBXBuildFile; fileRef = EC9A4BF91F3A6E1B00D67FAD /* Circle_Aminor.png */; };
+		EC9A4BFC1F3A6E1B00D67FAD /* Circle_Home.png in Resources */ = {isa = PBXBuildFile; fileRef = EC9A4BFA1F3A6E1B00D67FAD /* Circle_Home.png */; };
 		ECE0925C1F2F8DB9005EA522 /* Pitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE0925B1F2F8DB9005EA522 /* Pitch.swift */; };
 		ECE0925E1F2F8F4F005EA522 /* KeyLocations.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE0925D1F2F8F4F005EA522 /* KeyLocations.swift */; };
 		ECE092601F2F9519005EA522 /* Geometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE0925F1F2F9519005EA522 /* Geometry.swift */; };
@@ -43,6 +45,8 @@
 		EC7148371F278D22002569C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC7148391F278D22002569C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC7148421F28F93B002569C7 /* Key.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Key.swift; sourceTree = "<group>"; };
+		EC9A4BF91F3A6E1B00D67FAD /* Circle_Aminor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Circle_Aminor.png; sourceTree = "<group>"; };
+		EC9A4BFA1F3A6E1B00D67FAD /* Circle_Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Circle_Home.png; sourceTree = "<group>"; };
 		ECE0925B1F2F8DB9005EA522 /* Pitch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pitch.swift; sourceTree = "<group>"; };
 		ECE0925D1F2F8F4F005EA522 /* KeyLocations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyLocations.swift; sourceTree = "<group>"; };
 		ECE0925F1F2F9519005EA522 /* Geometry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geometry.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 				EC7148411F28F928002569C7 /* Models */,
 				EC71482D1F278D22002569C7 /* AppDelegate.swift */,
 				EC7148311F278D22002569C7 /* Main.storyboard */,
+				EC9A4BF91F3A6E1B00D67FAD /* Circle_Aminor.png */,
+				EC9A4BFA1F3A6E1B00D67FAD /* Circle_Home.png */,
 				EC7148341F278D22002569C7 /* Assets.xcassets */,
 				EC7148361F278D22002569C7 /* LaunchScreen.storyboard */,
 				EC7148391F278D22002569C7 /* Info.plist */,
@@ -211,10 +217,12 @@
 				ECEFF81D1F33AB740000998B /* Scale_AminMelodicDown.mp3 in Resources */,
 				ECEFF81E1F33AB740000998B /* Scale_AminHarmonic.mp3 in Resources */,
 				EC7148381F278D22002569C7 /* LaunchScreen.storyboard in Resources */,
+				EC9A4BFC1F3A6E1B00D67FAD /* Circle_Home.png in Resources */,
 				ECEFF81C1F33AB740000998B /* Scale_AminMelodicUp.mp3 in Resources */,
 				EC7148351F278D22002569C7 /* Assets.xcassets in Resources */,
 				ECEFF8141F33889B0000998B /* Scale_AminNatural.mp3 in Resources */,
 				ECEFF81B1F33AB740000998B /* Scale_Cmaj.mp3 in Resources */,
+				EC9A4BFB1F3A6E1B00D67FAD /* Circle_Aminor.png in Resources */,
 				ECEFF81F1F33AB740000998B /* Chords_Cmaj.mp3 in Resources */,
 				EC7148331F278D22002569C7 /* Main.storyboard in Resources */,
 			);
