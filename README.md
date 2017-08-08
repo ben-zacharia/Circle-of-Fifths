@@ -11,6 +11,8 @@ Some things missing:
                       
 - It would be very nice if the wheel could turn, but I have not yet found an elegant way to do that
 
+Some examples:
+
 ![Alt text](/Circle%20of%20Fifths/Circle_Home.png?raw=true "Optional Title")
 
 ![Alt text](/Circle%20of%20Fifths/Circle_Aminor.png?raw=true "Optional Title")
